@@ -15,7 +15,7 @@ export const Wrapper = styled.main`
 
 export const Logo = styled.img`
   margin-bottom: 2rem;
-  width: 25 rem;
+  width: 25rem;
 `
 
 export const Title = styled.h1`
