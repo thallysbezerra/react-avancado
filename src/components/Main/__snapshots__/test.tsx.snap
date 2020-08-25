@@ -27,7 +27,7 @@ exports[`<Main /> should render the heading 1`] = `
 
 .c1 {
   margin-bottom: 2rem;
-  width: 25 rem;
+  width: 25rem;
 }
 
 .c2 {
